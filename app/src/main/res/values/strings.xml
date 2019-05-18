@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mis Tareas</string>
+    <string name="nueva_nota">nueva_nota</string>
+    <string name="ver_mapa">ver_mapa</string>
+    <string name="lista_notas">lista_notas</string>
+    <string name="button_Add">Button add</string>
+    <string name="titulo">Titulo</string>
+    <string name="MY_API_KEY">AIzaSyCcsyL8AV71zDnh9QkATy9XQkqx6zsqCcw</string>
+    <string name="pulse_mapa_para_seleccionar">Pulse mapa para seleccionar...</string>
+    <string name="nota_no_eliminada">La nota no ha podido ser eliminada</string>
+    <string name="nota_eliminada">Nota eliminada correctamente</string>
+    <string name="error_edit_nota">La nota no ha podido ser editada</string>
+    <string name="edit_nota_ok">La nota se ha editado correctamente</string>
+    <string name="nueva_nota_ok">Nota creada correctamente</string>
+    <string name="error_nueva_nota">La nota no ha podido ser creada</string>
+</resources>

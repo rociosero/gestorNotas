@@ -1,0 +1,2 @@
+Las notas están compuestas de un título y una descripción. Pueden llevar asociada una imagen tomada de la galería o de la cámara.
+Pueden estar vinculadas a unas coordenadas geográficas. Se pueden editar y eliminar. Toda la información se almacena base de datos.

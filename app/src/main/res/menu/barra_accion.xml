@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/menuNueva"
+        android:title="@string/nueva_nota"
+        android:icon="@mipmap/ic_nuevanota"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/verMapa"
+        android:icon="@mipmap/ic_mapa"
+        android:title="@string/ver_mapa"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menuVolver"
+        android:title="Volver"
+        android:orderInCategory="3"
+        app:showAsAction=""/>
+    <item android:id="@+id/menuSalir"
+        android:title="salir"
+        android:orderInCategory="3"
+        app:showAsAction="ifRoom"/>
+</menu>
